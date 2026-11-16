@@ -1,0 +1,21 @@
+PRC UPDATE SUMMARY
+==================
+Total unique fund names checked: 22
+Total exact fund matches with target PRC tables: 21
+Total PRC values inserted/updated: 21
+Total PRC tables deleted: 1
+
+Funds whose PRC tables were deleted:
+- Axis US Specific Treasury Dynamic Debt Passive FOF
+
+Unmatched fund names:
+- AXIS ULTRA SHORT TERM FUND
+
+Matched funds with no PRC table in target:
+- None
+
+Warnings:
+- None
+
+Update errors:
+- None
